@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BSC-DOS TEST/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "8.0.0"
+        },
+        "runtime": {
+          "BSC-DOS TEST.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/8.0.0": {}
+    }
+  },
+  "libraries": {
+    "BSC-DOS TEST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zuTbpcWDCCvESnOAvpHuwum1C3jJIeDl+grYcRDqyoHsPAUutIB6wb7iJV3Y2Q96crKC6cObqf92eOVEiG7keQ==",
+      "path": "microsoft.dotnet.ilcompiler/8.0.0",
+      "hashPath": "microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+    }
+  }
+}

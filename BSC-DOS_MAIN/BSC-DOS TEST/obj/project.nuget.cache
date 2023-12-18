@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9i9Iq15vNsxTS/Wq/HDGPHcNfOaVU6sYXAmV+dz7XbTHjZOoQb/5Gn1VxQELP83RGWgOjp5+H1IOsw3K8EWeYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khan\\source\\repos\\BSC-DOS Master\\BSC-DOS_MAIN\\BSC-DOS TEST\\BSC-DOS TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

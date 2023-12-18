@@ -1,0 +1,45 @@
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.exe
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.deps.json
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.runtimeconfig.json
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.AssemblyReference.cache
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfoInputs.cache
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfo.cs
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\refint\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.genruntimeconfig.cache
+C:\Users\khan\source\repos\BSC-DOS TEST\BSC-DOS TEST\obj\Debug\net6.0\ref\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.exe
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.deps.json
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.runtimeconfig.json
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.AssemblyReference.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfoInputs.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfo.cs
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\refint\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.genruntimeconfig.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS MAIN\BSC-DOS TEST\obj\Debug\net6.0\ref\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.exe
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.deps.json
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.runtimeconfig.json
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\bin\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.AssemblyReference.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfoInputs.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.AssemblyInfo.cs
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\refint\BSC-DOS TEST.dll
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.pdb
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\BSC-DOS TEST.genruntimeconfig.cache
+C:\Users\khan\source\repos\BSC-DOS Master\BSC-DOS_MAIN\BSC-DOS TEST\obj\Debug\net6.0\ref\BSC-DOS TEST.dll
